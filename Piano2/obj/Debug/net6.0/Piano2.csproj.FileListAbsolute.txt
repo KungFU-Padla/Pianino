@@ -1,0 +1,15 @@
+C:\Users\lexre\source\repos\Piano2\Piano2\bin\Debug\net6.0\Piano2.exe
+C:\Users\lexre\source\repos\Piano2\Piano2\bin\Debug\net6.0\Piano2.deps.json
+C:\Users\lexre\source\repos\Piano2\Piano2\bin\Debug\net6.0\Piano2.runtimeconfig.json
+C:\Users\lexre\source\repos\Piano2\Piano2\bin\Debug\net6.0\Piano2.dll
+C:\Users\lexre\source\repos\Piano2\Piano2\bin\Debug\net6.0\Piano2.pdb
+C:\Users\lexre\source\repos\Piano2\Piano2\obj\Debug\net6.0\Piano2.csproj.AssemblyReference.cache
+C:\Users\lexre\source\repos\Piano2\Piano2\obj\Debug\net6.0\Piano2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lexre\source\repos\Piano2\Piano2\obj\Debug\net6.0\Piano2.AssemblyInfoInputs.cache
+C:\Users\lexre\source\repos\Piano2\Piano2\obj\Debug\net6.0\Piano2.AssemblyInfo.cs
+C:\Users\lexre\source\repos\Piano2\Piano2\obj\Debug\net6.0\Piano2.csproj.CoreCompileInputs.cache
+C:\Users\lexre\source\repos\Piano2\Piano2\obj\Debug\net6.0\Piano2.dll
+C:\Users\lexre\source\repos\Piano2\Piano2\obj\Debug\net6.0\refint\Piano2.dll
+C:\Users\lexre\source\repos\Piano2\Piano2\obj\Debug\net6.0\Piano2.pdb
+C:\Users\lexre\source\repos\Piano2\Piano2\obj\Debug\net6.0\Piano2.genruntimeconfig.cache
+C:\Users\lexre\source\repos\Piano2\Piano2\obj\Debug\net6.0\ref\Piano2.dll
